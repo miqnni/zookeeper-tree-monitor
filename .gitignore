@@ -1,3 +1,5 @@
 */bin
 */docs
 */lib
+zookeeper-data/zookeeper*/version-*/log.*
+zookeeper-data/zookeeper*/version-*/snapshot.*
